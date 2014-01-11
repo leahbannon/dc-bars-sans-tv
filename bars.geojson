@@ -51,14 +51,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.043814,
-          38.900325
+          -77.037000,
+          38.911124
         ]
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Birreria Paradiso Georgetown",
-        "address": "1924 Pennsylvania Ave NW"
+        "name": "Hank's Oyster Bar",
+        "address": "1624 Q St NW"
       }
     }
   ]
