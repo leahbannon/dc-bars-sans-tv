@@ -3,7 +3,7 @@
 <img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
 
 
-### A collaborative list of DC locations that serve up both Internet and Alcohol
+### A collaborative list of DC bars and restaurants that don't have televisions (or the TV is at least very easy to ignore).
 
 *Because coding together is better than coding alone (TM)*
 
@@ -16,8 +16,9 @@ CC-BY-SA
 ## How to contribute
 
 1. Fork the project
-2. Add or edit a location by editing and following the format in `bars.geojson` (hint, it's geoJSON)
-3. Submit a pull request
+2. Create a new branch
+3. Add or edit a location by editing and following the format in `bars.geojson` (hint, it's geoJSON)
+4. Submit a pull request
 
 ## Validating the geoJSON
 
@@ -31,4 +32,4 @@ Pop it into http://geocoder.us/. Boom.
 
 ## Why?
 
-Don't ask such questions.
+Because I have ADHD.
