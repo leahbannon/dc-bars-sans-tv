@@ -45,21 +45,5 @@
         "name": "Birreria Paradiso Georgetown",
         "address": "3282 M St NW"
       }
-    },
-        {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.038193,
-          38.901345
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Blackfin",
-        "address": "1620 I St NW"
-      }
-    }
   ]
 }
