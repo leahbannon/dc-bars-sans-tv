@@ -46,5 +46,20 @@
         "address": "3282 M St NW"
       }
     }
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043814,
+          38.900325
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Birreria Paradiso Georgetown",
+        "address": "1924 Pennsylvania Ave NW"
+      }
+    }
   ]
 }
