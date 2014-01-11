@@ -1,4 +1,4 @@
-# DC WiFi Social
+# DC Bars sans TV
 
 <img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
 
