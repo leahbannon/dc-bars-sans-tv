@@ -45,8 +45,8 @@
         "name": "Birreria Paradiso Georgetown",
         "address": "3282 M St NW"
       }
-    }
-      {
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
