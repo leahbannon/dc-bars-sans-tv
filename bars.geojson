@@ -75,6 +75,216 @@
         "name": "Little Miss Whiskey's",
         "address": "1104 H St NE"
       }
-    }
+    },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031952,
+          38.911129
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Etto",
+        "address": "1541 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031951,
+          38.911465
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Ghibellina",
+        "address": "1610 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031950,
+          38.911532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Pearl Dive",
+        "address": "1612 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031951,
+          38.914228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Cork",
+        "address": "1805 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031949,
+          38.911868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Barcelona",
+        "address": "1622 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031953,
+          38.912606
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Bar di Bari",
+        "address": "1401 R St NW"
+      }
+       },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031952,
+          38.914697
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "El Centro",
+        "address": "1819 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031953,
+          38.915050
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Cafe St Ex",
+        "address": "1847 14th St NW"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031951,
+          38.914094
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Two Birds One Stone",
+        "address": "1800 14th St NW"
+      }
+    },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031951,
+          38.914094
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Doi Moi",
+        "address": "1800 14th street NW"
+      }
+    },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031951,
+          38.914429
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Red Room (Black Cat)",
+        "address": "1811 14th St NW"
+      }
+    },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036533,
+          38.917002
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Local 16",
+        "address": "1602 U St NW"
+      }
+    }, 
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031951,
+          38.917089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Gibson",
+        "address": "2009 14th St NW"
+      }
+    }, 
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019906,
+          38.898496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Daikaya",
+        "address": "705 6th St NW"
+      }
+    }, 
   ]
 }
