@@ -15,7 +15,7 @@
         "name": "2 Amys",
         "address": "3715 Macomb St NW"
       }
-    },
+    },x
     {
       "type": "Feature",
       "geometry": {
@@ -207,23 +207,8 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Two Birds One Stone",
+        "name": "Doi Moi & Two Birds One Stone",
         "address": "1800 14th St NW"
-      }
-    },
-      {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031951,
-          38.914094
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Doi Moi",
-        "address": "1800 14th street NW"
       }
     },
       {
