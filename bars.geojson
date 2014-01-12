@@ -91,7 +91,7 @@
         "address": "1541 14th St NW"
       }
     },
-        {
+      {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -106,7 +106,7 @@
         "address": "1610 14th St NW"
       }
     },
-        {
+     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -121,7 +121,7 @@
         "address": "1612 14th St NW"
       }
     },
-        {
+      {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -136,7 +136,7 @@
         "address": "1805 14th St NW"
       }
     },
-        {
+     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "address": "1622 14th St NW"
       }
     },
-        {
+      {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -181,7 +181,7 @@
         "address": "1819 14th St NW"
       }
     },
-        {
+     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -196,7 +196,7 @@
         "address": "1847 14th St NW"
       }
     },
-        {
+      {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -285,6 +285,6 @@
         "name": "Daikaya",
         "address": "705 6th St NW"
       }
-    }, 
+    }
   ]
 }
