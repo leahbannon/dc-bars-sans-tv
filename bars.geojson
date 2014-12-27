@@ -6,6 +6,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.028496,
+          38.917131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Saloon",
+        "address": "1205 U St NW"
+      }
+    },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.072638,
           38.933484
         ]
